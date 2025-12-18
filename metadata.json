@@ -1,0 +1,7 @@
+{
+  "name": "Copy of PediaNote AI Sityá",
+  "description": "Assistente clínico especializado para pediatras, gerando notas SOAP estruturadas, códigos CID-10 e instruções para os pais.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
